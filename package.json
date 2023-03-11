@@ -1,0 +1,27 @@
+{
+  "name": "to-do-list-aps-backend-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadra-Taghizadeh/To-Do-List-APS-BackEnd-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadra-Taghizadeh/To-Do-List-APS-BackEnd-/issues"
+  },
+  "homepage": "https://github.com/Sadra-Taghizadeh/To-Do-List-APS-BackEnd-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
